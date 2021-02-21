@@ -49,6 +49,11 @@ select {
   background-color: #f2dede;
   border-color: #ebccd1;
 }
+.alert-success {
+  color: green;
+  background-color: lightgreen;
+  border-color: lightgreen;
+}
 .alert p {
   margin-bottom: 0;
 }
