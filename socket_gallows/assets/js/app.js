@@ -12,4 +12,8 @@ import "../css/app.scss"
 //     import {Socket} from "phoenix"
 //     import socket from "./socket"
 //
+
+window.Vue = require("vue/dist/vue.js")
 import "phoenix_html"
+
+import "./hangman_app"
